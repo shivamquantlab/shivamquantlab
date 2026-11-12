@@ -1,32 +1,43 @@
 ### Hi, I'm Shivam Malik 👋
 **B.Sc. in Physics, Statistics & Mathematics | Aspiring M.Sc. Researcher in AI, Data Science & Applied Mathematics**
 
-I focus on translating mathematical and statistical formulations into clean, vectorized Python implementations from scratch.
+I translate mathematical and statistical ideas into clear Python implementations, reproducible experiments, and carefully documented research projects.
 
-#### 🔬 Core Areas of Focus
-* **Statistical Computing:** Probability Distributions, Monte Carlo Methods, Bayesian Inference & Hypothesis Testing
-* **Applied Mathematics:** Linear Algebra, Multivariate Calculus, Optimization & Numerical Methods
-* **Machine Learning & AI:** Algorithms from Scratch, Predictive Modeling & Scientific Computing (PINNs)
+#### 🔬 Research Interests
+- **Statistical computing:** probability distributions, Monte Carlo methods, Bayesian inference, and hypothesis testing
+- **Applied mathematics:** linear algebra, multivariate calculus, optimization, and numerical methods
+- **Machine learning and scientific computing:** predictive modeling, algorithms from scratch, and physics-informed neural networks
 
 #### 🛠️ Technical Stack
-* **Languages & Libraries:** Python, NumPy, Matplotlib, Pandas, SciPy, Scikit-Learn
-* **Environment & Tools:** Google Colab, Jupyter Notebooks, Git & GitHub
+- **Languages and libraries:** Python, NumPy, Matplotlib, Pandas, SciPy, scikit-learn
+- **Tools:** Jupyter, Google Colab, Git, GitHub, pytest, and Ruff
 
-#### 📂 Featured Quantitative Repositories
-1. **Student Performance Statistical Analysis** — Multi-subject statistical indicators and score distribution pipeline.
-2. **Probability Distributions Engine** — Theoretical PDF/PMF implementations of Normal, Binomial, and Poisson models from scratch.
+#### 📊 Portfolio at a glance
+- **10 quantitative research projects** in independent, installable Python repositories
+- **16 public GitHub repositories** across research, statistical computing, and portfolio infrastructure
 
-#### 🧪 Reproducible Quantitative Research
+#### 🧪 Quantitative Research Projects
 
-These independently installable projects use synthetic or hand-authored scenarios and document their assumptions and limitations.
+Each project is a reproducible research demonstration with documented assumptions and limitations. Trading experiments use synthetic data only; the point-in-time project uses hand-authored example records. None of these results is evidence of real investment returns.
 
-* [Point-in-Time Market Data](https://github.com/shivamquantlab/point-in-time-market-data) — Revision-aware, bitemporal data snapshots.
-* [Returns Analytics](https://github.com/shivamquantlab/returns-analytics) — Return, volatility, and drawdown metrics.
-* [Volatility Forecasting](https://github.com/shivamquantlab/volatility-forecasting) — Lagged EWMA volatility forecasting.
-* [Factor Research](https://github.com/shivamquantlab/factor-research) — Cross-sectional factor signals and long-short spreads.
-* [Portfolio Construction](https://github.com/shivamquantlab/portfolio-construction) — Long-only minimum-variance optimization.
-* [Event-Driven Backtesting](https://github.com/shivamquantlab/event-driven-backtesting) — Event-driven simulation with next-period fills and costs.
-* [Time-Series Momentum](https://github.com/shivamquantlab/time-series-momentum) — Lagged trend signals and synthetic cost scenarios.
-* [Pairs Trading](https://github.com/shivamquantlab/pairs-trading) — Formation-only hedge estimation and lagged signals.
-* [Options Analytics](https://github.com/shivamquantlab/options-analytics) — Black-Scholes pricing, Greeks, and implied volatility.
-* [Tail-Risk Validation](https://github.com/shivamquantlab/tail-risk-validation) — Walk-forward VaR/ES validation and exception checks.
+| Project | Research scope | Technologies |
+| --- | --- | --- |
+| [Point-in-Time Market Data](https://github.com/shivamquantlab/point-in-time-market-data) | Bitemporal records, revisions, and decision-date availability snapshots. | Python, Matplotlib |
+| [Returns Analytics](https://github.com/shivamquantlab/returns-analytics) | Compounding, annualized risk, drawdowns, and numerical checks. | Python, NumPy, Matplotlib |
+| [Volatility Forecasting](https://github.com/shivamquantlab/volatility-forecasting) | Lagged EWMA forecasts, explicit scaling, and forecast evaluation. | Python, NumPy, Matplotlib |
+| [Factor Research](https://github.com/shivamquantlab/factor-research) | Cross-sectional sorts and long-short factor spreads on a synthetic panel. | Python, NumPy, Matplotlib |
+| [Portfolio Construction](https://github.com/shivamquantlab/portfolio-construction) | Constrained minimum-variance weights and out-of-sample evaluation. | Python, NumPy, Matplotlib |
+| [Event-Driven Backtesting](https://github.com/shivamquantlab/event-driven-backtesting) | Event timing, next-period fills, portfolio accounting, and costs. | Python, NumPy, Matplotlib |
+| [Time-Series Momentum](https://github.com/shivamquantlab/time-series-momentum) | Lagged trend signals, forward returns, and synthetic cost scenarios. | Python, NumPy, Matplotlib |
+| [Pairs Trading](https://github.com/shivamquantlab/pairs-trading) | Formation-only hedge estimation and evaluation-period spread signals. | Python, NumPy, Matplotlib |
+| [Options Analytics](https://github.com/shivamquantlab/options-analytics) | European Black–Scholes prices, Greeks, and implied volatility. | Python, NumPy, Matplotlib |
+| [Tail-Risk Validation](https://github.com/shivamquantlab/tail-risk-validation) | Walk-forward VaR and Expected Shortfall validation with exception checks. | Python, NumPy, Matplotlib |
+
+#### 📂 Earlier Statistical Projects
+- [Student Performance Statistical Analysis](https://github.com/shivamquantlab/student-performance-analysis) — Multi-subject statistical indicators and score distributions.
+- [Probability Distributions Engine](https://github.com/shivamquantlab/probability-distributions-engine) — Normal, Binomial, and Poisson PDF/PMF implementations.
+- [Central Limit Theorem Simulator](https://github.com/shivamquantlab/central-limit-theorem-simulator) — Sampling distributions and convergence demonstrations.
+- [Monte Carlo Simulation Engine](https://github.com/shivamquantlab/monte-carlo-simulation-engine) — Reproducible Monte Carlo experiments.
+
+---
+*Research and educational material only. Synthetic experiments do not establish real-world investment performance and are not investment advice.*
