@@ -13,8 +13,8 @@ I translate mathematical and statistical ideas into clear Python implementations
 - **Tools:** Jupyter, Google Colab, Git, GitHub, pytest, and Ruff
 
 #### 📊 Portfolio at a glance
-- **10 quantitative research projects** in independent, installable Python repositories
-- **16 public GitHub repositories** across research, statistical computing, and portfolio infrastructure
+- **11 quantitative research projects** in independent, installable Python repositories
+- **17 public GitHub repositories** across research, statistical computing, and portfolio infrastructure
 
 #### 🧪 Quantitative Research Projects
 
@@ -32,6 +32,7 @@ Each project is a reproducible research demonstration with documented assumption
 | [Pairs Trading](https://github.com/shivamquantlab/pairs-trading) | Formation-only hedge estimation and evaluation-period spread signals. | Python, NumPy, Matplotlib |
 | [Options Analytics](https://github.com/shivamquantlab/options-analytics) | European Black–Scholes prices, Greeks, and implied volatility. | Python, NumPy, Matplotlib |
 | [Tail-Risk Validation](https://github.com/shivamquantlab/tail-risk-validation) | Walk-forward VaR and Expected Shortfall validation with exception checks. | Python, NumPy, Matplotlib |
+| [Execution Costs](https://github.com/shivamquantlab/execution-costs) | Synthetic one-way half-spread, commission, and participation-based square-root impact costs. | Python, NumPy, Matplotlib |
 
 #### 📂 Earlier Statistical Projects
 - [Student Performance Statistical Analysis](https://github.com/shivamquantlab/student-performance-analysis) — Multi-subject statistical indicators and score distributions.
